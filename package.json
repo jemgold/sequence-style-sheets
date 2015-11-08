@@ -1,0 +1,16 @@
+{
+  "name": "seq-style-sheets",
+  "version": "0.0.1",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel-core/register test.js"
+  },
+  "author": "Jon Gold <hello@designedbygold.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.18.0",
+    "simple-modular-scale": "^1.0.2"
+  }
+}
