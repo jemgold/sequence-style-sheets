@@ -3,6 +3,7 @@
 an experiment in generating stylesheets out of scale sequences and basscss-style
 utility classes. wipppppppp
 
+```
 [ '.m0  { margin: 0.5rem; }',
   '.mt0  { margin-top: 0.5rem; }',
   '.mr0  { margin-right: 0.5rem; }',
@@ -48,3 +49,4 @@ utility classes. wipppppppp
   '.p4  { padding: 8rem; }',
   '.py4 { padding-top: 8rem; padding-bottom: 8rem; }',
   '.px4 { padding-right: 8rem; padding-left: 8rem; }' ]
+```
